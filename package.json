@@ -1,0 +1,26 @@
+{
+  "name": "sync-feed",
+  "version": "1.0.0",
+  "description": "Interview assessment",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MistaPidaus/sync-feed.git"
+  },
+  "author": "MistaPidaus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MistaPidaus/sync-feed/issues"
+  },
+  "homepage": "https://github.com/MistaPidaus/sync-feed#readme",
+  "dependencies": {
+    "next": "^9.0.7",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
